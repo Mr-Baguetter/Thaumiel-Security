@@ -1,0 +1,55 @@
+Privacy Policy for Thaumiel Security
+
+Effective Date: 11/22/2024
+
+At Thaumiel Security, we value the privacy and security of our users. This Privacy Policy outlines how we collect, use, and protect your information when you interact with the bot. By using Thaumiel Security, you agree to the terms outlined in this Privacy Policy.
+
+1. Information We Collect
+When you interact with Thaumiel Security, we may collect the following types of data:
+
+Message Content: The bot may collect the content of messages you send or receive in servers where the bot is active. This includes text, images, and links shared within Discord channels, which the bot may access for moderation or interaction purposes. Message content is not stored permanently unless necessary for moderation or logging.
+Direct Messages: The bot may send and receive direct messages for notifications, commands, or other interactions.
+User and Server Information: The bot collects and stores certain information related to your Discord account, including:
+Your Discord username and ID
+Server (guild) name and ID
+Role information within a server
+Server settings related to the bot’s features (e.g., moderation rules, logs, etc.)
+Moderation Actions: The bot may log actions such as bans, warnings, and other moderation events for record-keeping and server management purposes.
+2. How We Use Your Data
+The data we collect is used for the following purposes:
+
+Bot Functionality: To provide the services and features of the bot, such as executing commands, moderation, and notifications.
+Moderation and Logging: To monitor and enforce server rules and policies, including issuing warnings, banning users, and other administrative actions as needed.
+Improvement of Services: To analyze bot performance and user interactions, which may help us improve the bot’s functionality and features.
+Personalization: To customize interactions with the bot based on your server settings, role, and preferences.
+3. Data Retention
+Data collected by the bot is retained as long as necessary to provide its services. This includes:
+
+Logs: Logs of actions such as bans, warnings, and messages may be retained for record-keeping and moderation purposes.
+Server Information: Server settings and configuration data may be stored for the duration of the bot’s use within that server.
+Message Content: Message content is not stored permanently but may be temporarily processed for moderation and bot functionality.
+4. Data Sharing
+Thaumiel Security does not share your personal information or server data with third parties, except in the following cases:
+
+With your consent: If you explicitly authorize the bot to share certain information with a third party, we may do so.
+Required by law: If necessary to comply with legal obligations, such as a court order or a subpoena, we may share information with relevant authorities.
+To service providers: We may share data with third-party service providers who help manage and support the bot’s services, such as cloud hosting or database management services. These providers are bound by privacy agreements to protect your data.
+5. Data Security
+We take reasonable measures to protect your data from unauthorized access, disclosure, or modification. However, no system is completely secure, and we cannot guarantee the security of your data.
+
+6. Your Rights
+As a user, you have certain rights regarding your data, including:
+
+Access: You can request to access your personal data stored by the bot.
+Deletion: You can request the deletion of non-moderation data from the bot’s logs or database, subject to the limitations of Discord’s API and the bot’s functionality.
+Opt-out: You may choose to stop using the bot at any time, which will result in the bot ceasing to collect new data from you. Please note that prior data may remain in moderation logs or records.
+7. Third-Party Services
+This Privacy Policy does not cover third-party services or links that may be included in bot messages. We encourage you to review the privacy policies of any external services you interact with through the bot.
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected in this document, and the effective date will be updated accordingly. We encourage you to review this policy periodically to stay informed of any updates.
+
+By continuing to use Thaumiel Security, you agree to the updated Privacy Policy.
+
+9. Contact Information
+If you have any questions or concerns about this Privacy Policy, please contact us at thaumiel.servers@gmail.com.
