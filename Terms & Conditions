@@ -1,0 +1,47 @@
+By using Thaumiel Security, you agree to the following Terms and Conditions. These terms govern your use of the bot, which includes its services, features, and interactions within Discord servers.
+
+1. Bot Usage and Permissions
+The bot requires certain permissions to function correctly, including but not limited to:
+
+Bans: The bot can ban members from servers as part of its moderation functionality.
+Message Content: The bot can access message content for moderation, logging, and other features.
+DM Messages: The bot may send and receive direct messages for functionality such as notifications or interactions.
+Messages: The bot has access to messages in text channels for purposes such as moderation or responding to commands.
+Members: The bot can view and manage members in the server, including checking member statuses and handling join/leave events.
+Guild Messages: The bot can access messages sent within the server to process commands and manage content.
+Guilds: The bot may access server details (guilds) to properly interact with the server settings and members.
+Auto-Moderation Execution: The bot can execute auto-moderation rules on the server, such as removing harmful content or issuing warnings.
+By adding or interacting with this bot, you give permission for these actions to occur within the Discord server where the bot is active.
+
+2. User Responsibilities
+Users are responsible for using the bot in accordance with Discord's terms of service. You agree to refrain from using the bot for any malicious or abusive activity, including but not limited to:
+
+Harassment or bullying
+Spamming or flooding
+Violation of other users' privacy or sharing sensitive data without consent
+3. Privacy and Data Collection
+The bot collects and processes information as needed for its functionalities. This includes:
+
+Messages: The bot may access messages for moderation or command execution.
+User Information: The bot may store user data for purposes such as moderation or logs (e.g., banning or warning).
+Guild Information: The bot may collect server (guild) information to provide its services, such as tracking members and messages within a server.
+All collected data is used exclusively for the bot's operation and features, and no personal data will be shared with third parties without the user's consent, unless required by law.
+
+4. Liability
+While we strive to ensure that Thaumiel Security operates correctly, we cannot be held liable for any damages caused by its use. This includes, but is not limited to:
+
+Loss of data
+Server issues due to bot activity
+Incorrect or unexpected behavior of the bot
+Use the bot at your own risk.
+
+5. Modifications and Termination
+We reserve the right to modify or terminate the bot's services at any time, with or without notice. This includes the ability to change features, intents, or functionalities based on user feedback or necessary improvements.
+
+6. Compliance with Discord’s Terms
+By using this bot, you agree to comply with Discord's terms of service and community guidelines. Violating Discord’s rules while using the bot may result in the bot being removed from the server, and further penalties may be applied as per Discord's moderation policies.
+
+7. Changes to Terms and Conditions
+We reserve the right to update these Terms and Conditions at any time. Any changes will be reflected here, and you are encouraged to review them periodically.
+
+By continuing to use Thaumiel Security, you agree to the terms.
